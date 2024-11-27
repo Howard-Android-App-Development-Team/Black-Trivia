@@ -83,7 +83,7 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
     - -> Leaderboard
 
 ## Wireframes
-![Android Wireframes]([https://hackmd.io/_uploads/HJ-K44fX1e.jpg](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/Android%20Wireframes.jpg))
+![Android Wireframes](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/Android%20Wireframes.jpg)
 
 <br>
 
