@@ -171,7 +171,7 @@ Simplifies music discovery, offering global trends and personalized recommendati
 - **UI/UX Designer:** 1 for engaging and user-friendly design.  
 - **Music Curator:** 1 for testing and ensuring accurate recommendations.  
 
-
+# **FINAL APP IDEA: BLACK CULTURE TRIVIA**
 
 
    
