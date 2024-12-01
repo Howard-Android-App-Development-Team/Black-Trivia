@@ -35,28 +35,20 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 **Required Features**
 
 1. Trivia Questions: A database of questions spanning Black history, culture, and achievements.
-2. Multiple Categories: Topics like music, art, sports, history, and current events.
-3. Ability for users to interact with and answer prompts
-4. User Profile: Basic profile with username, avatar, and scores.
-5. Leaderboard: Track and display top players globally or among friends.
+2. Ability for users to interact with and answer prompts
+3. User Profile: Basic profile with username, avatar, and scores.
 6. Correct Answer Explanations: Provide educational value by explaining correct answers.
 
 **Optional Features**
 
-1. Audio Questions: Identify songs, speeches, or movie quotes.
-2. Real-Time Multiplayer: Compete live with friends or random users.
+1. Multiple Categories: Topics like music, art, sports, history, and current events.
+2. Leaderboard: Track and display top players globally or among friends.
 3. Progress Insights: Provide users with stats on their performance and improvement.
 
 ### 2. Screen Archetypes
-1. Login Screen
-    - User can login to account
-3. Registration Screen
-    - User can register for account
-5. Profile Page
+1. Profile Page
     - User can access account information and stats
-7. Category
-    - Users can pick a category to play
-9. Trivia Page
+2. Trivia Page
     - Users can answer trivia questions and get a score
 
 ### 3. Navigation
@@ -64,23 +56,14 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 **Tab Navigation** (Tab to Screen)
 
 * Profile
-* Leaderboard
 * Trivia
-* Practice Trivia
 
 **Flow Navigation** (Screen to Screen)
 
-1. Login Screen
-    - -> Home
-    - -> Registration Screen
-
-2. Profile 
-    - -> Home
-    - -> Trivia Ring
-3. Trivia Ring
-    - -> Home
+1. Profile
+    - -> Trivia
+2. Triva Ring 
     - -> Profile
-    - -> Leaderboard
 
 ## Wireframes
 ![Android Wireframes](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/Android%20Wireframes.jpg)
