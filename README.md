@@ -80,19 +80,21 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Full Project Board](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/FullBoard.jpg)
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- [This unit's milestone issues](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/Unit8Issues.jpg)
+  <br>
+- [Next Sprint's Issues](https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/Unit9Issues.jpg)
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- [x] Insert username screen
+- [x] Implement Bottom View Controller for easy navigation between Trivia and Profile
+
+## Demo of implemented issues 
+[Imgur for Unit 8](https://imgur.com/a/5Kh6rzS)
 
 <br>
 
