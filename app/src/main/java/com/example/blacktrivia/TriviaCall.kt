@@ -1,4 +1,8 @@
 package com.example.blacktrivia
 
-class TriviaCall {
+import retrofit2.Call
+import retrofit2.Callback
+
+private fun <T> Call<T>?.enqueue(callback: Callback<TriviaResponse>) {
+
 }
