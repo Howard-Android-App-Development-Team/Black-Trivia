@@ -113,8 +113,7 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 -     As a User, I need the ability to set and interact with a customized user profile so that I may introduce myself to others on the app.
 
 
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/Howard-Android-App-Development-Team/Black-Trivia/blob/main/TriviaWalkthrough.gif" width=300>
 
 ## App Demo Video
 
