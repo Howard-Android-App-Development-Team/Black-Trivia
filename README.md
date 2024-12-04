@@ -34,18 +34,20 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 
 **Required Features**
 
-- [ ] Trivia Questions: A database of questions spanning Black history, culture, and achievements.
-- [ ] Ability for users to interact with and answer prompts
-- [x] User Profile: Basic profile with username, avatar, and scores.
+- [x] Trivia Questions: A database of questions spanning Black history, culture, and achievements.
+- [x] Ability for users to interact with and answer prompts
+- [x] User Profile: Basic profile with username.
 - [x] Bottom Nav Controller: Going between Trivia and Profile
-- [ ] Correct Answer Explanations: Provide educational value by explaining correct answers.
+- [x] Correct Answer Explanations: Provide educational value by explaining correct answers.
 - [x] Registration Screen: Entering username for playing 
 
-**Optional Features**
+**Optional/Stretch Features**
 
 1. Multiple Categories: Topics like music, art, sports, history, and current events.
 2. Leaderboard: Track and display top players globally or among friends.
 3. Progress Insights: Provide users with stats on their performance and improvement.
+4. API Compatability: Linking to an online database to pull trivia questions from.
+5. Enhanced User Profle: Expanded user profile with custom avatar and score.
 
 ### 2. Screen Archetypes
 1. Profile Page
