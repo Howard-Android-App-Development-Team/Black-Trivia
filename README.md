@@ -102,12 +102,15 @@ Immerse yourself in the richness and diversity of Black culture with Black Cultu
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Updated Project board for this milestone] <img src="" width=600>
 
 ## Completed user stories
 
 - List the completed user stories from this unit
+-     As a User, I need to be able to choose my username so that my answered questions may be stored on a profile.
 - List any pending user stories / any user stories you decided to cut
+-     As a User, I need to see the explanation of the correct answer to a prompt so that I may better understand when I get an answer wrong, or potentially learn or reinforce knowledge when i have answered a prompt correctly.
+-     As a User, I need the ability to set and interact with a customized user profile so that I may introduce myself to others on the app.
 from the original requirements
 
 [Add video/gif of your current application that shows build progress]
